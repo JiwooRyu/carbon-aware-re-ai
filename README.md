@@ -1,10 +1,5 @@
 # carbon-aware-re-ai
 A requirements engineering framework and lightweight PoC for analyzing trade-offs between AI model performance and carbon efficiency.
-
-# Carbon-Aware Requirements Engineering for AI Systems: A Vision for Sustainability-Driven Trade-off Decisions
-
-This repository contains the official **Proof-of-Concept (PoC)** implementation for our vision paper: *"Carbon-Aware Requirements Engineering for AI Systems: A Vision for Sustainability-Driven Trade-off Decisions"*.
-
 ---
 
 ## 📌 Overview
